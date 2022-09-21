@@ -11191,7 +11191,7 @@ nav.page-navbar.affix .navbar-brand .text-dark {
 }
 
 .header {
-  background: #efefef url(../imgs/header.jpeg);
+  background: #efefef url(../imgs/header.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -11343,7 +11343,7 @@ section.height-auto {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(../imgs/header.jpeg) no-repeat center center fixed;
+  background: url(../imgs/header.png) no-repeat center center fixed;
   background-size: cover;
   z-index: -1;
   opacity: .4;
@@ -11447,6 +11447,7 @@ section.height-auto {
   position: relative;
 }
 
+/*
 .img-wrapper .after {
   position: absolute;
   top: 10%;
@@ -11455,14 +11456,14 @@ section.height-auto {
   height: 80%;
   box-shadow: 0 3px 80px rgba(173, 181, 189, 0.3), 0 0 10px rgba(173, 181, 189, 0.3) !important;
   border-radius: 0.2rem;
-  /*background: #FAD02C;*/
+  /*background: #FAD02C;
   background: #019EF1;
-}
+}*/
 
-.img-wrapper .after.right {
+/*.img-wrapper .after.right {
   left: auto;
   right: -30px;
-}
+}*/
 
 .img-wrapper img {
   position: relative;
